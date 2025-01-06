@@ -1,5 +1,5 @@
 # Kasir1
-## Link presentasi program kasir sederhana: 
+## Link presentasi program kasir sederhana: https://youtu.be/YF65zZnWPZk
 
 ## 1. Kelas Barang
 ![Gambar](./Foto/1.png)
